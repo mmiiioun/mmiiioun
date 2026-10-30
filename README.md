@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:440154,25:3b528b,50:21918c,75:5ec962,100:fde725&height=6&section=header" width="100%">
 
-<img src="bear-bbox.svg" width="180" alt="">
+<img src="bear-bbox.gif" width="180" alt="">
 
 # Miju Kim · 김미주
 
