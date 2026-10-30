@@ -6,7 +6,7 @@
 
 **AI Research Engineer · AI × Security**
 
-M.S. candidate student, AI Research Lab, Graduate School of Information Security, Korea University
+ M.S. Candidate (expected Feb. 2027), AI Research Lab, Graduate School of Information Security, Korea University
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mmiiioun.github.io-5d498e?style=flat-square)](https://mmiiioun.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=dfrvWEsAAAAJ)
