@@ -22,13 +22,13 @@ M.S. Candidate (expected Feb. 2027), AI Research Lab, Graduate School of Informa
 I research AI with a focus on security, covering both **Security for AI** (finding vulnerabilities in AI models) and **AI for Security** (using AI to detect security threats).
 
 - **Robotics AI robustness**
-- backdoor attacks on LiDAR-camera fusion, MOT vulnerability analysis, jailbreak detection for LLM-controlled robots
+  - backdoor attacks on LiDAR-camera fusion, MOT vulnerability analysis, jailbreak detection for LLM-controlled robots
 - **XAI**
-- explainable similarity learning on corporate data
+  - explainable similarity learning on corporate data
 - **Anomaly detection**
-- LSTM · Transformer-based log anomaly detection
+  - LSTM · Transformer-based log anomaly detection
 - **Data analysis**
--  traffic accident and law violation data (QGIS · ECLO)
+  -  traffic accident and law violation data (QGIS · ECLO)
 
 ## Featured
 
