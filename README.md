@@ -34,12 +34,12 @@ I research AI with a focus on security, covering both **Security for AI** (findi
 
 | Project | Description | |
 |---|---|---|
-| **[DAB](https://github.com/mmiiioun/DAB)** | A Depth-Aware Backdoor Attack on LiDAR-Camera Fusion for 3D Object Detection · *IEEE Access 2026 (accepted, first author)* | [Code](https://github.com/mmiiioun/DAB) |
+| **[DAB](https://github.com/mmiiioun/DAB)** | A Depth-Aware Backdoor Attack on LiDAR-camera Fusion for 3D Object Detection · *IEEE Access 2026 (first author)* | [Paper](https://doi.org/10.1109/ACCESS.2026.3749650) · [Code](https://github.com/mmiiioun/DAB) |
 
 ## Publications
 
 **International Journals**
-- **Miju Kim**, S. Han, S. Lee. *A Depth-Aware Backdoor Attack on LiDAR-Camera Fusion for 3D Object Detection.* IEEE Access, 2026. (Accepted)
+- **Miju Kim**, S. Han, S. Lee. *A Depth-Aware Backdoor Attack on LiDAR-camera Fusion for 3D Object Detection.* IEEE Access, 2026.
 - S. Han, **Miju Kim**, J. Kang, K. Kim, S. Lee, S. Lee. *Similarity-Based Source Code Vulnerability Detection Leveraging Transformer Architecture: Harnessing Cross-Attention for Hierarchical Analysis.* IEEE Access, 2024.
 - **Miju Kim**, Y. Go, S. Choi, N. Kim, C. Yoon, W. Park. *A Study on the Analysis of Law Violation Data for the Creation of Autonomous Vehicle Traffic Flow Evaluation Indicators.* JISIS, vol. 13, pp. 185–198, 2023.
 
